@@ -1,3 +1,5 @@
+![Krishak's Photo](ADITI_USC.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 200px;" }
+
 ## About Me   
  
 **PhD Student, Department of Physics and Astronomy, USC**  
