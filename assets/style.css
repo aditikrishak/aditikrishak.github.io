@@ -1,7 +1,7 @@
 img[src*="img/ADITI_USC.jpg"] {
     display: block;
     margin: auto;
-    border-radius: 50%;
+    border-radius: 50% !important;
     width: 150px;  /* Adjust size as needed */
     height: 150px;
 }
