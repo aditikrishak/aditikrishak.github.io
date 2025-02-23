@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: "Aditi Krishak"
-description: "PhD Student, Dept. of Physics and Astronomy, USC"
+description: |
+  PhD Student,
+  Department of Physics and Astronomy,
+  University of Southern California 
 logo: "img/ADITI_USC.jpg"
 include: ["assets/style.css"]
