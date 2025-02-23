@@ -1,4 +1,3 @@
-![Krishak's Photo](ADITI_USC.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 200px;" }
 
 ## About Me   
  
@@ -8,8 +7,6 @@ Working with [Prof. Elena Pierpaoli](https://dornsife.usc.edu/elena-pierpaolis-w
   
 I study the cosmic microwave background (CMB), focusing on the search for signatures of primordial non-Gaussianities. My work explores how these signatures can provide insights into the physics of the early universe.
 
-## Contact  
-📧 krishak@usc.edu  
 
 <!--  
 ## Publications  
