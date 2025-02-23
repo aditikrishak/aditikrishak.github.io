@@ -1,5 +1,5 @@
 
-## About Me   
+## Aditi Krishak   
  
 **PhD Student, Department of Physics and Astronomy, USC**  
 Working with [Prof. Elena Pierpaoli](https://dornsife.usc.edu/elena-pierpaolis-web-page/)  
