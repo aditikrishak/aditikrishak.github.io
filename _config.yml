@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Aditi Krishak's Homepage"
 description: "Email: krishak@usc.edu"
-logo: img/ADITI_USC.jpg
+logo: "img/ADITI_USC.jpg"
 include: ["assets/style.css"]
