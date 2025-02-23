@@ -5,3 +5,8 @@ img[src*="img/ADITI_USC.jpg"] {
     width: 150px;  /* Adjust size as needed */
     height: 150px;
 }
+.site-logo img {
+    border-radius: 50% !important;
+    width: 150px;
+    height: 150px;
+}
