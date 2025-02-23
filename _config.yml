@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins: jekyll-remote-theme 
-title: "Aditi Krishak's Homepage"
-description: "Email: krishak@usc.edu"
+title: [Aditi Krishak's Homepage]
+description: [Email: krishak@usc.edu]
 logo: "img/ADITI_USC.jpg"
 include: ["assets/style.css"]
